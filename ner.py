@@ -1,0 +1,1 @@
+ner = ["Bataa", "Bold","Suren","Bolor"]
